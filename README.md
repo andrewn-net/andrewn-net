@@ -62,6 +62,9 @@ Helping large enterprises adopt Slack AI securely and effectively.
 - ☕ **Espresso Guide** — Learn how to make espresso! React app for espresso drink recipes, dial-in ratios, brew profiles, and optional Gemini-powered shot video analysis.  
   https://github.com/andrewn-net/espresso-guide
 
+- 🧩 **Manage AD Users with SCIM** — PowerShell reference project for provisioning and de-provisioning Active Directory users with SCIM (Slack target example).  
+  https://github.com/andrewn-net/manage-adusers-with-scim
+
 ---
 
 ## Highlights 🏆
